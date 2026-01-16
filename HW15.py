@@ -27,7 +27,6 @@ num_list.sort()
 print(num_list)
 #10. Create a while loop that starts at 1, prints i and then adds i to itself until it is greater than 100.
 i = 1
-
 while i <= 100:
     print(i)
     i = i + i
