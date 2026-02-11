@@ -23,10 +23,7 @@ def loop(number):
     for i in range( 1,number+1):
         print(i)
 #5. Call all of the functions created in 1 - 4 with relevant arguments.
-hello_world()
-average(2,3,4)
-animal_list('Dog','Cat','Cow','goat','Fish')
-loop(6)
+
 #6. Create a variable x that has the value of 2. Print x
 x=2
 print(x)
